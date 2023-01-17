@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(219, 205, 154);
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100vh;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+h1{
+    margin-top: 230px;
+    font-size: 30px;
+    margin-right: 90px;
+    
+}
+
+.pr{
+    width: 50%;
+    text-align:center;
+    height: 80vh;
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(109, 109, 143);
+}
+
+.a{
+    width: 50%;
+    height: 90vh;
+}
+
+img{
+    width: 100%;
+    height: 100vh;
+
+}
+
+.pr1{
+    margin-right:130px;
+    font-size: 30px;
+    list-style: none;
+    font-family:'Libre Baskerville', serif;
+    margin-top: 120px;
+
+    
+}
+
